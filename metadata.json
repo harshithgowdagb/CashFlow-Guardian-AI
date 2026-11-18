@@ -1,0 +1,6 @@
+{
+  "name": "CashFlow Guardian AI",
+  "description": "Predictive Cash-Flow Management and Shortage Prevention for Small Businesses",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
